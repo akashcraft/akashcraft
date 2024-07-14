@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akashcraft
+- 👋 Hi, I’m Akash Samanta (@akashcraft)
 - 👀 I’m interested in Full-Stack Web Development and App Development.
 - 👨‍💻 Dart (Flutter), AVR Assembly, VHDL, C#, C++, Python, HTML, CSS, JavaScript, jQuery, React JS, PHP, and MySQL.
 - 🌱 I’m currently a computer engineering student with expected graduation in 2026.
