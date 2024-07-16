@@ -1,5 +1,3 @@
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashcraft&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👋 Hi, I’m Akash Samanta (@akashcraft)
 - 👀 I’m interested in Full-Stack Web Development and App Development.
 - 👨‍💻 Dart (Flutter), AVR Assembly, VHDL, C#, C++, Python, HTML, CSS, JavaScript, jQuery, React JS, PHP, and MySQL.
