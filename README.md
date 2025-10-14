@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**akashcraft/akashcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m Akash Samanta (@akashcraft)
+- 👀 I’m interested in Full-Stack Web Development and App Development
+- 💻 Application - Python, C++, C# (Unity), Dart (Flutter)
+- 🚅 Front-End - HTML, CSS, JavaScript, jQuery, React (Typescript), Material UI
+- 💾 Back-End and Data Analytics - Python, PHP, MySQL, PostgreSQL, Scala, Apache Spark, AWS (EC2, RDS, S3), Firebase
+- 🌱 I’m currently a computer engineering student with expected graduation in 2026
+- ✈️ I'm an aviation geek
+- ❤️ I like to explore new boundaries of tech and share my coding journey in GitHub
+- ✨ I love video editing and sketching as my hobbies
+- 🪙 [Donate Here!](https://www.paypal.com/donate/?business=YFEQJ9D5KR9PW&no_recurring=0&item_name=Thank+you+for+considering+to+donate+me%21+This+way+I+can+keep+developing+more+applications+for+you.&currency_code=CAD)
