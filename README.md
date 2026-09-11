@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Akash Samanta (@akashcraft)
 - 👀 I’m interested in Full-Stack Web Development and App Development
 - 💻 Application - Python, C++, C# (Unity), Dart (Flutter)
-- 🚅 Front-End - HTML, CSS, JavaScript, jQuery, React (Typescript), Material UI
-- 💾 Back-End and Data Analytics - Python, PHP, MySQL, PostgreSQL, Scala, Apache Spark, AWS (EC2, RDS, S3), Firebase
-- 🌱 I’m currently a computer engineering student with expected graduation in 2026
+- 🚅 Front-End - TypeScript (React), Material UI, JavaScript, jQuery
+- 💾 Back-End and Data Analytics - Python, PHP, MySQL, PostgreSQL, Scala, Apache Spark, AWS (EC2, RDS, S3, DynamoDB), Firebase
+- 🌱 I’m a computer engineering graduate from MUN
 - ✈️ I'm an aviation geek
 - ❤️ I like to explore new boundaries of tech and share my coding journey in GitHub
 - ✨ I love video editing and sketching as my hobbies
