@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akash Samanta (@akashcraft)
 - 💻 I’m a Computer Engineer and Datalakes Developer
 - ☁️ I work with Scala, Apache Spark, Hudi, Iceberg, and AWS on data pipelines and cloud-based systems
-- ☁️ AWS - Solutions Architect Associate, AI and Cloud Practitioner
+- ☁️ AWS - Solutions Architect - Associate, AI and Cloud Practitioner
 - 🧑‍💻 Applications - Python, C++, C#, Java, Scala, Dart (Flutter)
 - 🚅 Front-End - TypeScript (React), Material UI, JavaScript, jQuery
 - 💾 Back-End & Data - Python, PHP, MySQL, PostgreSQL, Firestore, NoSQL, Apache Spark
